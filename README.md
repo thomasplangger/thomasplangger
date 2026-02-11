@@ -4,9 +4,9 @@
 
 I build practical AI systems and full-stack apps — especially projects that involve **visual data**, **LLMs**, and **product-grade engineering** (APIs, UIs, evaluation, deployment).
 
-- 📍 Austria (open to Austria / Switzerland / London / remote)
-- 🎓 MSc Computer Science, TU Graz (GPA 1.5/5.0)
-- 🔭 Interests: Computer Vision, LLM pipelines, document understanding, visual tooling
+-  Austria (open to Austria / Switzerland / London / remote)
+-  MSc Computer Science, TU Graz (GPA 1.5/5.0)
+-  Interests: Computer Vision, LLM pipelines, visual tooling
 
 ---
 
@@ -17,7 +17,7 @@ I build practical AI systems and full-stack apps — especially projects that in
 
 ---
 
-## Featured projects (soon)
+## Featured projects
 - Master thesis system (LLM-based document segmentation + learning objective induction)
 - Food recommender webapp (LLM preference-based recipes + image generation)
 - Art gallery webapp (real-world client use + AI integration)
@@ -41,5 +41,5 @@ I build practical AI systems and full-stack apps — especially projects that in
 ---
 
 ## Contact
-- LinkedIn: <your link>
+- LinkedIn: www.linkedin.com/in/thomas-plangger
 - Email: <your email>
