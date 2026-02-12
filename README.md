@@ -42,4 +42,4 @@ I build practical AI systems and full-stack apps — especially projects that in
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/thomas-plangger
-- Email: <your email>
+- Email: to.plangger@gmail.com
