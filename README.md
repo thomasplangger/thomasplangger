@@ -1,45 +1,50 @@
 # Hi, I'm Thomas 👋
 
-### ML / Computer Vision & Software Engineering (MSc TU Graz)
+### Applied AI Engineer | Computer Vision & LLM Systems
 
-I build practical AI systems and full-stack apps — especially projects that involve **visual data**, **LLMs**, and **product-grade engineering** (APIs, UIs, evaluation, deployment).
+MSc Computer Science graduate (TU Graz, GPA 1.5/5.0) building production-oriented AI systems that combine machine learning, computer vision, and full-stack engineering.
 
--  Austria (open to Austria / Switzerland / London / remote)
--  MSc Computer Science, TU Graz (GPA 1.5/5.0)
--  Interests: Computer Vision, LLM pipelines, visual tooling
+I focus on turning research ideas into deployable systems — including LLM pipelines, pose estimation workflows, hybrid backend architectures, and evaluation-driven ML applications.
 
----
-
-## What I work on
-- **Applied ML & CV:** data pipelines, training/inference, evaluation, model integration
-- **LLM-powered systems:** RAG, extraction, semantic segmentation, grounded generation
-- **Full-stack:** FastAPI, React, databases, deployments
+- 📍 Austria (open to Austria / Switzerland / London / remote)
 
 ---
 
-## Featured projects
-- Master thesis system (LLM-based document segmentation + learning objective induction)
-- Food recommender webapp (LLM preference-based recipes + image generation)
-- Art gallery webapp (real-world client use + AI integration)
-- Dino Demolition (custom physics / simulation project)
+## Focus Areas
+
+- **Applied ML & Computer Vision** – pose estimation, segmentation, evaluation pipelines
+- **LLM Systems** – semantic chunking, objective generation, structured extraction, RAG-style workflows
+- **Full-Stack AI Applications** – FastAPI backends, React frontends, database integration, deployment
 
 ---
 
-## Tools & Languages
-**Daily**
-- Python, TypeScript/JavaScript
-- PyTorch, FastAPI
-- React, Node.js
-- MongoDB / Postgres
-- Docker, Git
+## Selected Projects
 
-**Worked with**
-- Unity (games & simulation)
-- OpenAI APIs / LLM tooling
-- Cloud deployments (Vercel/Render/etc.)
+**LearnApp – LLM Course Generation Pipeline**  
+Full-stack system for semantic document segmentation and learning objective induction using LLMs.
+
+**Tennis Serve Pose Analysis**  
+Computer vision pipeline for biomechanical phase detection and automated technique feedback.
+
+**Art Gallery Web Platform**  
+Hybrid PHP + FastAPI system with AI-assisted publishing and real-world client deployment.
+
+**Dino Demolition Physics Prototype**  
+Custom 2D rigid body and fracture simulation engine built without external physics libraries.
+
+---
+
+## Tech Stack
+
+**Core:**  
+Python · PyTorch · FastAPI · React · TypeScript · MongoDB · Docker
+
+**Experience With:**  
+Computer Vision · LLM APIs · Cloud Deployment · Unity · REST APIs · Evaluation Frameworks
 
 ---
 
 ## Contact
-- LinkedIn: www.linkedin.com/in/thomas-plangger
+
+- LinkedIn: www.linkedin.com/in/thomas-plangger  
 - Email: to.plangger@gmail.com
