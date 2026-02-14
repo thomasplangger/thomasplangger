@@ -23,6 +23,9 @@ I focus on turning research ideas into deployable systems — including LLM pipe
 **LearnApp – LLM Course Generation Pipeline**  
 Full-stack system for semantic document segmentation and learning objective induction using LLMs.
 
+**MealArchitect – LLM Recipe Generation Pipeline**  
+Full-stack system for LLM-based recipe generation and generated visuals.
+
 **Tennis Serve Pose Analysis**  
 Computer vision pipeline for biomechanical phase detection and automated technique feedback.
 
